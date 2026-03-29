@@ -2,3 +2,5 @@
 #EXTINF:-1, RENAS TV HD
 
 http://renastvhd167.m3u8
+#EXTINF:-1, rudaw hd
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
