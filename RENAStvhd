@@ -1,15 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GbX6v0gL/ava-1.png" 
-
-group-title="Kurdish Channels", AVA TV
-
+#EXTINF:-1 tvg-logo="https://postimg.cc/GbX6v0gL/ava-1.png" group-title="Kurdish Channels", AVA TV
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpTvrtr0/Pics-Art-25-08-01-14-36-12-848.png" group-title="Kurdish Channels", Rudaw TV
-
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpTvrtr0/Pics-Art-25-08-01-14-36-12-848.png" group-title="Kurdish Videos", Renas Video
-
 https://archive.org/download/you-cut-20260330-200245904/YouCut_20260330_200245904.mp4
