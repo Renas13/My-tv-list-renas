@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.rudaw.net/Content/images/rudaw-logo.png" group-title="Kurdish", RUDAW TV
+https://shls-rudaw-prod.cdn.arkena.com/out/v1/7998b185699a46309832788390632230/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kurdistan24.net/assets/images/logo.png" group-title="Kurdish", KURDISTAN 24
+https://k24-live.mcloud.entelo.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://avatv.krd/images/logo.png" group-title="Kurdish", AVA TV
+https://ava-tv.shls.kurdistan-stream.com/out/v1/8672074f71a9420084f7b60582298e85/index.m3u8
